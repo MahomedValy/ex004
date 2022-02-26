@@ -18,6 +18,31 @@
 body {
     background-color: rgb(255, 86, 86);
 }
+header {
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 40px;
+    min-height: 150px;
+}
+header p {
+    padding-top: 30px;
+}
+nav{
+    text-align: left;
+    padding-top: 38px;
+    padding-left: 40px;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: aliceblue;
+    background-color: rgb(51, 14, 14);
+    padding: 3px;
+    border-radius: 7px;
+    font-size: 1.2em;
+}
 
 main { 
     background-color: aliceblue;
