@@ -1,0 +1,27 @@
+@charset "UTH-8";
+
+@font-face {
+    font-family: "bebas";
+    src: url(../fontes/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: "android";
+    src: url(../fontes/idroid.otf);
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(255, 86, 86);
+}
+
+main { 
+    background-color: aliceblue;
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+}
