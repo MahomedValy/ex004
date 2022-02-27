@@ -127,6 +127,7 @@ ul {
 }
 ul li {
     font-size: large;
+    padding-left: 20px;
 }
 footer {
     background-color: black;
