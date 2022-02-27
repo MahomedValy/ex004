@@ -21,7 +21,7 @@ body {
 }
 body p {
     text-align: center;
-    font-size: 1.3em;
+    font-size: 1.1em;
     margin-bottom: 30px;
 }
 header {
@@ -132,8 +132,8 @@ ul li {
 footer {
     background-color: black;
     color: white;
-    padding: 15px;
+    padding: 10px;
     text-align: center;
-    font-size: 1.0em;
+    font-size: 0.8em;
 }
 
