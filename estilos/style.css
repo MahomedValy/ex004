@@ -17,6 +17,7 @@
 
 body {
     background-color: rgb(255, 86, 86);
+    max-width: 100%;
 }
 header {
     background-color: black;
@@ -28,6 +29,7 @@ header {
 }
 header p {
     padding-top: 30px;
+    color: white;
 }
 nav{
     text-align: left;
@@ -50,3 +52,4 @@ main {
     padding: 20px;
     margin: auto;
 }
+
