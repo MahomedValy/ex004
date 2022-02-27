@@ -40,12 +40,18 @@ nav a {
     text-decoration: none;
     margin-right: 10px;
     color: aliceblue;
-    background-color: rgb(51, 14, 14);
-    padding: 3px;
+    background-color: rgba(51, 14, 14, 0.747);
+    padding: 1px 15px 0px 10px;
     border-radius: 7px;
     font-size: 1.2em;
+    transition-duration: 1.1s;
 }
-
+nav a:hover {
+    background-color: black;
+}
+img {
+    width: 100%;
+}
 main { 
     background-color: aliceblue;
     max-width: 800px;
