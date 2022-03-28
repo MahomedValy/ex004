@@ -126,8 +126,10 @@ ul {
     columns: 2;
 }
 ul li {
+    list-style-type: none;
     font-size: large;
     padding-left: 40px;
+    text-decoration: none;
 }
 footer {
     background-color: black;
