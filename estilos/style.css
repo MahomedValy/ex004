@@ -104,6 +104,13 @@ main p {
     padding: 30px 0px 30px 0px;
     text-indent: 40px;
 }
+.div01 {
+    display: flex;
+    grid-gap: 40px;
+}
+.div01 p {
+    text-align: justify;
+}
 div.video {
     background-color: black;
     position: relative;
