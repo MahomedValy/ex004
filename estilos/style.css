@@ -88,6 +88,7 @@ main h3 {
     padding: 3px;
     background-image: linear-gradient(to right, black, rgb(247, 247, 247));
     font-family: var(--android);
+    border-radius: 9px;
 }
 main h4 {
     background-color: black;
